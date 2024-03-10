@@ -1,6 +1,6 @@
 # Extensions inspector
 
-This is a headless fork of [Tachidesk](https://github.com/Suwayomi/Tachidesk) that is used to inspect (i.e. extract some information from) [Tachiyomi's extension APKs](http://github.com/tachiyomiorg/tachiyomi-extensions).
+This is a headless fork of  [Tachidesk](https://github.com/Suwayomi/Tachidesk) that is used to inspect (i.e. extract some information from) [Tachiyomi's extension APKs](http://github.com/tachiyomiorg/tachiyomi-extensions).
 
 ## Credits
 
